@@ -6,6 +6,7 @@ Tugas-Tugas Ababil Pusano dengan NIM J0403231018 dari mata kuliah Dasar Pemrogra
   - [Data_Structure.ipynb](https://github.com/AbabilPusano/Dasar-Pemrograman/blob/main/Pertemuan_Data_Structures/Data_Structure.ipynb)
 - [Pertemuan_Function](https://github.com/AbabilPusano/Dasar-Pemrograman/tree/main/Pertemuan_Function)
   - [Functions.ipynb](https://github.com/AbabilPusano/Dasar-Pemrograman/blob/main/Pertemuan_Function/functions.ipynb)
+  - [latihan_function.ipynb](https://github.com/AbabilPusano/Dasar-Pemrograman/blob/main/Pertemuan_Function/latihan_function.ipynb)
 - [Pertemuan_Library](https://github.com/AbabilPusano/Dasar-Pemrograman/tree/main/Pertemuan_Library)
   - [Practice_1](https://github.com/AbabilPusano/Dasar-Pemrograman/tree/main/Pertemuan_Library/Practice_1)
     - [Flask.py](https://github.com/AbabilPusano/Dasar-Pemrograman/blob/main/Pertemuan_Library/Practice_1/Flask.py)
